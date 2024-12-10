@@ -1,0 +1,5 @@
+homepage: "https://permate.com"
+documentation: "https://github.com/permate-tech/permate-button-tag-template-gtm"
+versions:
+  - sha: 7a54aa2f7859725aab0f3b14d01550d4bd4599e3
+    changeNotes: Initial release.
