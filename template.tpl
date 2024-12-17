@@ -42,7 +42,7 @@ const getTimestampMillis = require('getTimestampMillis');
 const injectScript = require('injectScript');
 const encodeUriComponent = require('encodeUriComponent');
 
-const TRACKING_DOMAIN = 'https://pmcloud1.com';
+const TRACKING_DOMAIN = 'https://bk.pmcloud1.com';
 const SCRIPT_URL = TRACKING_DOMAIN + '/get_url/button';
 
 function loadScript() {
@@ -157,7 +157,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://pmcloud1.com/*"
+                "string": "https://bk.pmcloud1.com/*"
               }
             ]
           }
